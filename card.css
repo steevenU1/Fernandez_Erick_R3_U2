@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+.container{
+    width: 350px;
+    height: 100px;
+    background-color: #6A9C89;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+h1{
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+svg{
+    align-self: center;
+}
